@@ -33,3 +33,8 @@ A página inclui:
 
 📖 *Este projeto é um exercício prático para estudo de HTML e CSS com um tema divertido inspirado em Star Wars.*
 
+### 🧾 Licença
+Este projeto é de uso livre para fins educacionais e demonstração.
+Sinta-se à vontade para modificar e aprimorar conforme suas necessidades.
+
+Iago Monfredini - Coryright
